@@ -132,7 +132,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.mapr.synth.Synth</mainClass>
+                            <mainClass>com.mapr.synth.Synth2</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
